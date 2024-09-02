@@ -1,0 +1,53 @@
+header{
+    padding: 30px;
+    background-color: var(--Silver);
+}
+
+.nav_img{
+    width: 155px;
+}
+
+.menu{
+    margin-left: 145px;
+}
+
+.menu ul li a{
+    margin: 0 25px;
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--Grey)!important;
+    Line-height: 24px;
+}
+
+.btn_Login{
+    width: 80px;
+    height: 40px;
+    margin-left: 100px;
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    text-align: center;
+    color: var(--Primary) !important;
+    
+}
+.btn_Login:active {
+    background-color: var(--white) !important;
+    color: var(--Primary) !important;
+    border: 1px solid var(--Primary) !important;
+}
+.btn_Login:hover{
+    background-color: var(--Silver);
+    border: 1px solid var(--Grey) !important;
+    color: var(--Primary) !important;
+}
+.btn_Signup{
+    margin-left: 15px;
+    padding: 10px 15px;
+    width: 90px;
+    height: 40px;
+    font-weight: 500;
+    line-height: 20px;
+    text-align: center;
+}

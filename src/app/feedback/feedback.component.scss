@@ -1,0 +1,49 @@
+.s_tim{
+    background-color: var(--Silver);
+}
+.tim_img{
+    padding: 32px;
+    width: 326px;
+    height: 326px;
+    border-radius: 8px 0px 0px 0px;
+
+
+}
+.tim_img img{
+    box-shadow: 0px 8px 16px 0px #ABBED166;
+}
+.tim_content{
+    padding: 30px 0;
+}
+.tim_p{
+    padding-right: 155px;
+}
+.tim_h5{
+    margin-top: 16px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+    color: var(--Primary);    
+}
+.tim_p1{
+    line-height: 24px;
+    color: var(--L_Grey);
+}
+.tim_img1{
+    margin-top: 32px;
+
+    
+}
+.tim_img1 img{
+    margin: 0 20px;
+}
+.tim_all{
+    margin-left: 30px;
+    width:223px;
+    height:44px;
+    padding: 8px;  
+}
+.tim_all i{
+    margin: 5px 0 0 2px;
+    color: var(--Primary);
+}

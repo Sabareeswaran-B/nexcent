@@ -1,0 +1,87 @@
+.s_marketing{
+    padding-top: 40px;
+ }
+ .marketing_img1{
+    padding: 190px 26px 0 ;
+    width: 368px;
+    height: 286px;
+    border-radius: 8px ;
+
+    background-image: url(https://cdn.document360.net/bb95ac2c-3cb0-4957-8d0b-a65dfbe81824/Images/Documentation/background.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+ 
+    margin: auto;
+ 
+    
+    
+ }
+ .marketing_img2{
+    
+    padding: 190px 26px 0 ;
+    width: 368px;
+    height: 286px;
+    border-radius: 8px ;
+
+    background-image: url(https://cdn.document360.net/bb95ac2c-3cb0-4957-8d0b-a65dfbe81824/Images/Documentation/cp.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+ 
+    margin: auto;
+    
+    
+ }
+ .marketing_img3{
+    
+    padding: 190px 26px 0 ;
+    width: 368px;
+    height: 286px;
+    border-radius: 8px ;
+
+    background-image: url(https://cdn.document360.net/bb95ac2c-3cb0-4957-8d0b-a65dfbe81824/Images/Documentation/image_20.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+ 
+    margin: auto;
+    
+    
+ }
+ .marketing_text{
+    padding-bottom: 30px;
+    width: 317px;
+    height: 176px;
+    border-radius: 8px;
+    background-color: var(--Silver);
+    box-shadow: 0px 8px 16px 0px #ABBED166;
+
+ }
+ .marketing_text h4{
+    padding: 16px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px; 
+ }
+ .btn_read{
+    width: 285px;
+    height: 44px;
+    padding: 8px;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    text-align: center;
+    color: var(--Primary) !important;
+}
+.btn_read:active {
+    background-color: var(--white) !important;
+    color: var(--Primary) !important;
+    border: 1px solid var(--Primary) !important;
+}
+.btn_read:hover{
+    background-color: var(--Silver);
+    border: 1px solid var(--Grey) !important;
+    color: var(--Primary) !important;
+}

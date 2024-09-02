@@ -1,0 +1,36 @@
+.slider{
+    padding: 100px 0;
+    background-color: var(--Silver);
+}
+.c_ind {
+        bottom: -50px;
+    }
+    
+.c_ind [data-bs-target] {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: var(--Primary);
+
+}
+.s_text h1{
+    padding-bottom: 15px;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 76px;
+    color: var(--D_Grey);
+
+}
+.s_text h1 span{
+    color: var(--Primary);
+}
+
+.s_text a{
+    margin-top: 30px;
+}
+.btn_register {
+    width: 128px;
+    height: 52px;
+    padding: 14px 32px;
+    border-radius: 4px;
+}
